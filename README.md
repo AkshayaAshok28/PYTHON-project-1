@@ -36,3 +36,11 @@ which also receive the highest volume of **total customer votes**.
 | **`Zomato data .csv`** | (Required) The raw dataset used for this analysis. |
 | **`Presentation/Zomato Restaurant Data Analysis.pptx`** | The final PowerPoint slide deck summarizing all findings and recommendations. |
 | **`README.md`** | This project overview and setup guide. |
+
+-----
+
+ ## 📧 Contact
+
+- **👩‍💻 Your Name:** Akshaya A
+- **📩 Email:** aakshaya.ashok@gmail.com
+- **🌐 GitHub:** [http://github.com/AkshayaAshok28]
