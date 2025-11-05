@@ -43,6 +43,6 @@ which also receive the highest volume of **total customer votes**.
 
 - **👩‍💻 Your Name:** Akshaya A
 - **📩 Email:** aakshaya.ashok@gmail.com
-- **🌐 GitHub:** [https://github.com/AkshayaAshok28/Zomato-Data-Analysis-Project]
+- **🌐 GitHub:** [http://github.com/AkshayaAshok28]
 
 
